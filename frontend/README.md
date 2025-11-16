@@ -9,7 +9,7 @@ npm install
 
 2. Create `.env` file:
 ```
-VITE_API_URL=http://localhost:5000/api
+VITE_BACKEND_URL=http://localhost:5000/api
 ```
 
 3. Start development server:
